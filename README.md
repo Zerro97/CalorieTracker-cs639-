@@ -13,16 +13,16 @@ Run the above command and expo will start on your browser. Open up the expo from
 
 ## Screen Shots
 ### Log In Screen
-<img src="https://github.com/Zerro97/CalorieTracker-cs639-/blob/master/screenshots/image1.png" alt="Start Screen" height="350px" width="500px"/>
+<img src="https://github.com/Zerro97/CalorieTracker-cs639-/blob/master/screenshots/image1.png" alt="Start Screen" height="800px" width="300px"/>
 
 ### Home Screen
-<img src="https://github.com/Zerro97/CalorieTracker-cs639-/blob/master/screenshots/image2.png" alt="Game Play Screen" height="350px" width="500px"/>
+<img src="https://github.com/Zerro97/CalorieTracker-cs639-/blob/master/screenshots/image2.png" alt="Game Play Screen" height="800px" width="300px"/>
 
 ### Profile Screen
-<img src="https://github.com/Zerro97/CalorieTracker-cs639-/blob/master/screenshots/image3.png" alt="Game Over Screen" height="350px" width="500px"/>
+<img src="https://github.com/Zerro97/CalorieTracker-cs639-/blob/master/screenshots/image3.png" alt="Game Over Screen" height="800px" width="300px"/>
 
 ### Meals Screen
-<img src="https://github.com/Zerro97/CalorieTracker-cs639-/blob/master/screenshots/image4.png" alt="Game Over Screen" height="350px" width="500px"/>
+<img src="https://github.com/Zerro97/CalorieTracker-cs639-/blob/master/screenshots/image4.png" alt="Game Over Screen" height="800px" width="300px"/>
 
 ### Activities Screen
-<img src="https://github.com/Zerro97/CalorieTracker-cs639-/blob/master/screenshots/image5.png" alt="Game Over Screen" height="350px" width="500px"/>
+<img src="https://github.com/Zerro97/CalorieTracker-cs639-/blob/master/screenshots/image5.png" alt="Game Over Screen" height="800px" width="300px"/>
